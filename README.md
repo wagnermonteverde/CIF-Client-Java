@@ -1,12 +1,10 @@
-
-Projeto agregador de informações                     
+Cliente Java para comunicação com CIF Server V1                    
                                                                                 
 Pacote br.com.rnp.cif     cliente  CIF                       
                                                                                 
-Pacote br.com.rnp.ocs cliente bd OCS                   
-
-
+                                                                                
+Pacote br.com.rnp.main     exemplos
 
  Projeto criado IDE Eclipse  -                                                        
  Link Plugin Maven Eclipse                                                          
- http://download.jboss.org/jbosstools/updates/m2eclipse-wtp/   
+ http://download.jboss.org/jbosstools/updates/m2eclipse-wtp/
