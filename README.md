@@ -5,6 +5,6 @@ Pacote br.com.rnp.cif     cliente  CIF
                                                                                 
 Pacote br.com.rnp.main     exemplos
 
- Projeto criado IDE Eclipse  -                                                        
+ Projeto criado IDE Eclipse  - Utilizando Maven                                                 
  Link Plugin Maven Eclipse                                                          
  http://download.jboss.org/jbosstools/updates/m2eclipse-wtp/
